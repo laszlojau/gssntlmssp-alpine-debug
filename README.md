@@ -1,5 +1,9 @@
 # Test GSS-NTLMSSP in Alpine
 
+## Disclaimer
+
+This was used for testing the following bug: https://github.com/gssapi/gss-ntlmssp/issues/97  
+The issue was fixed in [gss-ntlmssp v1.3.0](https://github.com/gssapi/gss-ntlmssp/releases/tag/v1.3.0), so this repo is now outdated.
 
 ## Running the container
 
